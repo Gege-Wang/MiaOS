@@ -1,2 +1,3 @@
 # MiaOS
-writing your own OS
+
+writing your own OS.
